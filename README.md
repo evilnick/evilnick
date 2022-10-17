@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Latest from the ubuntu blog
-<!--  blog starts -->
-<!--  blog ends -->
+<!-- blog starts -->
+<!-- blog ends -->
