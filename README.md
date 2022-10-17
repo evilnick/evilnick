@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Latest from the ubuntu blog
+<!--  blog starts -->
+<!--  blog ends -->
