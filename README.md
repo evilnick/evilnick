@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Latest from the Ubuntu blog
+
 <!-- blog starts -->
 * [Meet us at Kubeflow Summit 2022](https://ubuntu.com//blog/meet-us-at-kubeflow-summit-2022) - Mon, 17 Oct 2022 10:15:04 +0000
 * [How desktop and GPU virtualisation power up automotive innovation](https://ubuntu.com//blog/how-desktop-and-gpu-virtualisation-power-up-automotive-innovation) - Mon, 17 Oct 2022 08:40:45 +0000
